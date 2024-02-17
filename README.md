@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **parsaes771385@gmail.com**
 
-- 📄 My resume [https://drive.google.com/file/d/1nzRqijcGXmezPUzbvQcS1ptbbDPvmKuT/view?usp=drivesdk](https://drive.google.com/file/d/1nzRqijcGXmezPUzbvQcS1ptbbDPvmKuT/view?usp=drivesdk)
+- 📄 My resume [[https://drive.google.com/file/d/1nzRqijcGXmezPUzbvQcS1ptbbDPvmKuT/view?usp=drivesdk](https://drive.google.com/file/d/1Kbu2Zch6CQ6o66RAJ8IEDjOK9Axfd6qZ/view?usp=drivesdk)]([https://drive.google.com/file/d/1nzRqijcGXmezPUzbvQcS1ptbbDPvmKuT/view?usp=drivesdk](https://drive.google.com/file/d/1Kbu2Zch6CQ6o66RAJ8IEDjOK9Axfd6qZ/view?usp=drivesdk))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
