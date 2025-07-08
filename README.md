@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Parsa Esmaeili</h1>
 <h3 align="center">A passionate frontend developer from Iran, Shiraz</h3>
 
-- 🌱 I’m currently learning **React JS**
-
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **parsaes771385@gmail.com**
